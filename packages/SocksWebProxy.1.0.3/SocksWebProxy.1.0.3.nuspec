@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SocksWebProxy</id>
+    <version>1.0.3</version>
+    <authors>Landon Key</authors>
+    <owners>Landon Key</owners>
+    <licenseUrl>https://raw2.github.com/postworthy/SocksWebProxy/master/README.md</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SocksWebProcy is a C# project build to make http communication over the Tor network simple and easy for C# projects.</description>
+    <summary>SocksWebProcy is a C# project build to make http communication over the Tor network simple and easy for C# projects.</summary>
+    <language>en-US</language>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5.1" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

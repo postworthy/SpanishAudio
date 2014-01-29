@@ -48,11 +48,13 @@
     <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.5.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Org.Mentalis">
-      <HintPath>..\packages\SocksWebProxy.1.0.2\lib\Org.Mentalis.dll</HintPath>
+    <Reference Include="Org.Mentalis, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SocksWebProxy.1.0.3\lib\Org.Mentalis.dll</HintPath>
     </Reference>
-    <Reference Include="SocksWebProxy">
-      <HintPath>..\packages\SocksWebProxy.1.0.2\lib\SocksWebProxy.dll</HintPath>
+    <Reference Include="SocksWebProxy, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\SocksWebProxy.1.0.3\lib\SocksWebProxy.dll</HintPath>
     </Reference>
     <Reference Include="SoundTouchNet, Version=1.2.4669.32984, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
